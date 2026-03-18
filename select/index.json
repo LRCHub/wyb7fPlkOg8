@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Jenuh Kan Kutelan (Stripped Version)",
+  "base_artist": "Perunggu",
+  "createdAt": "2026-03-18T13:20:09.005809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jenuh Kan Kutelan - Stripped Version",
+      "artist": "Perunggu",
+      "has_synced": true,
+      "path": "select/01_Jenuh_Kan_Kutelan_-_Stripped_Version_Perunggu.lrc"
+    }
+  ]
+}
